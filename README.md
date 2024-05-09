@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Passionate MERN stack developer with a keen eye for detail and a love for clean, efficient code.<br><be><br>
+👨‍💻 Passionate Full Stack developer with a keen eye for detail and a love for clean, efficient code.<br><be><br>
 🔧 Skilled in crafting RESTful APIs and integrating third-party services to create seamless user experiences.<br><be><br>
 📚 Continuous learner with a growth mindset, dedicated to refining expertise and embracing challenges in the ever-evolving landscape of web development.<br><be><br>
 🌐 Committed to creating scalable, robust applications that make a positive impact and drive innovation in the digital realm.<br><be><br>

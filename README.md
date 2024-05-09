@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻 Passionate MERN stack developer with a keen eye for detail and a love for clean, efficient code.<br><br>🔧 Skilled in crafting RESTful APIs and integrating third-party services to create seamless user experiences.<br><br>💡 Strong problem-solving abilities, adept at troubleshooting and debugging complex issues to ensure smooth functionality.<br><br>🚀 Enthusiastic about staying updated with the latest web development trends and technologies, always striving to enhance skills and learn new tools.<br><br>💬 Effective communicator and team player, capable of collaborating with designers, developers, and stakeholders to deliver high-quality projects on time.<br><br>📚 Continuous learner with a growth mindset, dedicated to refining expertise and embracing challenges in the ever-evolving landscape of web development.<br><br>🌐 Committed to creating scalable, robust applications that make a positive impact and drive innovation in the digital realm.<br><br>🎯 Goal-oriented professional, driven by a passion for creating elegant solutions that solve real-world problems and elevate user experiences.<br><br>🌱 Believer in the power of open source and community-driven development, actively contributing to the developer community through sharing knowledge and insights.
+👨‍💻 Passionate MERN stack developer with a keen eye for detail and a love for clean, efficient code.<br><be><br>
+🔧 Skilled in crafting RESTful APIs and integrating third-party services to create seamless user experiences.<br><be><br>
+📚 Continuous learner with a growth mindset, dedicated to refining expertise and embracing challenges in the ever-evolving landscape of web development.<br><be><br>
+🌐 Committed to creating scalable, robust applications that make a positive impact and drive innovation in the digital realm.<br><be><br>
 
 
 ## 🌐 Socials:

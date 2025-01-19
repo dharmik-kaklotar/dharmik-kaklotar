@@ -12,7 +12,6 @@ NestJs And Angularjs<br><br>
 💬 Ask me about<br>
 JavaScript, React, Nextjs, Node.js software development questions.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmik-kaklotar-09614129b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Dharmik711) 
 
